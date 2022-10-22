@@ -49,6 +49,6 @@ button:hover {
 
 .game-center {
   display: flex;
-  justify-content: center;
+  justify-content: left;
 }
 
